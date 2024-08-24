@@ -356,13 +356,11 @@ function ProjectApp() {
                                 Live Weather
                             </p>
                             <p>
-                                <FormattedMessage
-                                    id='projectsApp-info-14-p2'
-                                    defaultMessage='Small music player created with javascript, allows you to play, pause, fast forward and skip the songs'
-                                />
+                               Developed a Dynamic Weather view website that provides real-time weather updates for any location. Users can search for cities to see current conditions, including temperature, humidity, etc.
+                                
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Music-player/" target="_blank">https://nahuel61920.github.io/Music-player/</a>
+                                <span>Link:</span> <a href="https://deepak-pandey1.github.io/WeatherView/" target="_blank">https://weatherView.com</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
