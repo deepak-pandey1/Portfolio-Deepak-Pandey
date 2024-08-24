@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Deepak-Pandey/static/css/main.f5fd3bc6.css",
-    "main.js": "/Portfolio-Deepak-Pandey/static/js/main.cf0a5e5a.js",
+    "main.js": "/Portfolio-Deepak-Pandey/static/js/main.b2d8a030.js",
     "static/js/453.03eb6618.chunk.js": "/Portfolio-Deepak-Pandey/static/js/453.03eb6618.chunk.js",
     "static/media/proyecto-app-18-com.png": "/Portfolio-Deepak-Pandey/static/media/proyecto-app-18-com.c8c3f0b9e506541c493f.png",
     "static/media/proyecto-app-18.png": "/Portfolio-Deepak-Pandey/static/media/proyecto-app-18.9feb0e82a835726f9333.png",
@@ -61,11 +61,11 @@
     "static/media/proyecto-app-2.jpg": "/Portfolio-Deepak-Pandey/static/media/proyecto-app-2.5d8ddf1cc2638b419fd5.jpg",
     "index.html": "/Portfolio-Deepak-Pandey/index.html",
     "main.f5fd3bc6.css.map": "/Portfolio-Deepak-Pandey/static/css/main.f5fd3bc6.css.map",
-    "main.cf0a5e5a.js.map": "/Portfolio-Deepak-Pandey/static/js/main.cf0a5e5a.js.map",
+    "main.b2d8a030.js.map": "/Portfolio-Deepak-Pandey/static/js/main.b2d8a030.js.map",
     "453.03eb6618.chunk.js.map": "/Portfolio-Deepak-Pandey/static/js/453.03eb6618.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5fd3bc6.css",
-    "static/js/main.cf0a5e5a.js"
+    "static/js/main.b2d8a030.js"
   ]
 }
