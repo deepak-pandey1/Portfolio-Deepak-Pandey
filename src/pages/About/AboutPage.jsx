@@ -152,7 +152,7 @@ const About = () => {
                 </p>
               </div>
               <div className="skill-card" data-aos="flip-left" data-aos-delay="300">
-                <img alt="express" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="jQuery" />
+                <img alt="express" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="express" style={{ filter: "invert(100%) brightness(90%)" }}/>
                 <h2 className="skill-name">Express</h2>
                 <p className="skill-info">
                   <FormattedMessage

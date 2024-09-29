@@ -120,11 +120,11 @@ const About = () => (
                 <div className="skill">
                     <div>
                         <img alt="Nodejs" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-                        <h5>NodeJs</h5>
+                        <h5>NodeJS</h5>
                     </div>
                     <div>
-                        <img alt="express" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-                        <h5>Express</h5>
+                        <img alt="expressJS" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style={{ filter: "invert(100%) brightness(90%)" }} />
+                        <h5>ExpressJS</h5>
                     </div>
                     <div>
                         <img alt="php" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
