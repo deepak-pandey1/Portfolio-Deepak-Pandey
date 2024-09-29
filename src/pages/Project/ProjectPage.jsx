@@ -479,7 +479,7 @@ const Project = () => {
                 A fast and reliable weather forecasting app powered by Express.js. It delivers real-time weather data for any location, helping you stay informed about temperature, humidity, and more, with a sleek user interface.
               </p>
               <p>
-                It seamlessly integrates with external APIs for accurate forecasts and is optimized for performance across devices. Customizable features allow users to search by city or region, making it a versatile tool for travelers and weather enthusiasts alike.
+                                                                                                                                                                                    It seamlessly integrates with external APIs for accurate forecasts
               </p>
               <div className="eins-modal-text-2">
                 <span>Link:</span> <a href="https://weatherxpress.onrender.com/" target="_blank">https://weatherxpress.com</a>
