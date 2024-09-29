@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Deepak-Pandey/static/css/main.4c6eb602.css",
-    "main.js": "/Portfolio-Deepak-Pandey/static/js/main.8d498e02.js",
+    "main.js": "/Portfolio-Deepak-Pandey/static/js/main.391884fc.js",
     "static/js/453.03eb6618.chunk.js": "/Portfolio-Deepak-Pandey/static/js/453.03eb6618.chunk.js",
     "static/media/proyecto-app-18-com.png": "/Portfolio-Deepak-Pandey/static/media/proyecto-app-18-com.c8c3f0b9e506541c493f.png",
     "static/media/proyecto-app-18.png": "/Portfolio-Deepak-Pandey/static/media/proyecto-app-18.9feb0e82a835726f9333.png",
@@ -13,6 +13,7 @@
     "static/media/proyecto-app-17.png": "/Portfolio-Deepak-Pandey/static/media/proyecto-app-17.957128bc58d907c06dd0.png",
     "static/media/proyecto-6.jpg": "/Portfolio-Deepak-Pandey/static/media/proyecto-6.8c5b869e9fc55f49dba0.jpg",
     "static/media/inicio.png": "/Portfolio-Deepak-Pandey/static/media/inicio.9e191e0f2820064e6d28.png",
+    "static/media/WeatherXpressclick.png": "/Portfolio-Deepak-Pandey/static/media/WeatherXpressclick.d597240ba0f261ee4e0f.png",
     "static/media/proyecto-app-17-com.png": "/Portfolio-Deepak-Pandey/static/media/proyecto-app-17-com.45939c663f2966f99b90.png",
     "static/media/my.jpg": "/Portfolio-Deepak-Pandey/static/media/my.98c44a5201fcf9669231.jpg",
     "static/media/proyecto-12.jpg": "/Portfolio-Deepak-Pandey/static/media/proyecto-12.f4182fe58ea3d954f0a8.jpg",
@@ -36,7 +37,6 @@
     "static/media/proyecto-9.jpg": "/Portfolio-Deepak-Pandey/static/media/proyecto-9.b7dc3b776c855150784c.jpg",
     "static/media/proyecto-9-com.png": "/Portfolio-Deepak-Pandey/static/media/proyecto-9-com.6af5ea5aab15d4b23361.png",
     "static/media/proyecto-7-com.png": "/Portfolio-Deepak-Pandey/static/media/proyecto-7-com.53d366330fdbba92df72.png",
-    "static/media/WeatherXpressclick.png": "/Portfolio-Deepak-Pandey/static/media/WeatherXpressclick.5525a4d7c16f6d77c166.png",
     "static/media/proyecto-16.jpg": "/Portfolio-Deepak-Pandey/static/media/proyecto-16.e8281bc082feb844d820.jpg",
     "static/media/proyecto-17.jpg": "/Portfolio-Deepak-Pandey/static/media/proyecto-17.8f2beb551f8b177cbb65.jpg",
     "static/media/proyecto-10-com.png": "/Portfolio-Deepak-Pandey/static/media/proyecto-10-com.a99f307a2358037ce425.png",
@@ -64,11 +64,11 @@
     "static/media/proyecto-app-2.jpg": "/Portfolio-Deepak-Pandey/static/media/proyecto-app-2.5d8ddf1cc2638b419fd5.jpg",
     "index.html": "/Portfolio-Deepak-Pandey/index.html",
     "main.4c6eb602.css.map": "/Portfolio-Deepak-Pandey/static/css/main.4c6eb602.css.map",
-    "main.8d498e02.js.map": "/Portfolio-Deepak-Pandey/static/js/main.8d498e02.js.map",
+    "main.391884fc.js.map": "/Portfolio-Deepak-Pandey/static/js/main.391884fc.js.map",
     "453.03eb6618.chunk.js.map": "/Portfolio-Deepak-Pandey/static/js/453.03eb6618.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c6eb602.css",
-    "static/js/main.8d498e02.js"
+    "static/js/main.391884fc.js"
   ]
 }
