@@ -115,12 +115,14 @@ const Project = () => {
           </div>
 
 
-          {/* <div className="projects__item">
+          {/* //------------------------------------------------------->WeatherXpress */}
+          <div className="projects__item">
             <a onClick={() => cambiarEstadoModal11(!estadoModal11)}>
-              <img src={proyectsImg(`./proyecto-11.jpg`)} alt="" className="projects__img" />
+              <img src={proyectsImg(`./WeatherXpressimg.png`)} alt="" className="projects__img" />
             </a>
           </div>
-          <div className="projects__item">
+
+          {/* <div className="projects__item">
             <a onClick={() => cambiarEstadoModal10(!estadoModal10)}>
               <img src={proyectsImg(`./proyecto-10.jpg`)} alt="" className="projects__img" />
             </a>
@@ -460,28 +462,24 @@ const Project = () => {
         </div>
       </Modal>
 
-      {/* <Modal
+
+      {/* //------------------------------------------------------->WeatherXpress */}
+      <Modal
         estado={estadoModal11}
         cambiarEstado={cambiarEstadoModal11}
       >
         <div className="content-modal">
           <div className="pw-content">
-            <div className="eins-modal-preview"><img src={proyectsImg(`./proyecto-11-com.png`)} alt="" /></div>
+            <div className="eins-modal-preview"><img src={proyectsImg(`./WeatherXpressclick.png`)} alt="" /></div>
             <div className="eins-modal-text">
               <p>
-                <FormattedMessage
-                  id='projects-info-11-p1'
-                  defaultMessage='Plus Anime, created to watch or download the anime chapters of your choice.'
-                />
+                WeatherXpress
               </p>
               <p>
-                <FormattedMessage
-                  id='projects-info-11-p2'
-                  defaultMessage='It has a wide variety of Anime, both recent releases and community favorites, it also boasts movies of the genre in question.'
-                />
+                A fast and reliable weather forecasting app powered by Express.js. It delivers real-time weather data for any location, helping you stay informed about temperature, humidity, and more, with a sleek user interface.
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/PlusAnime" target="_blank">https://plusanime.com</a>
+                <span>Link:</span> <a href="https://weatherxpress.onrender.com/" target="_blank">https://weatherxpress.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -494,12 +492,14 @@ const Project = () => {
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
+                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="" />
+                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="" />
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </Modal> */}
+      </Modal>
 
       {/* <Modal
         estado={estadoModal10}

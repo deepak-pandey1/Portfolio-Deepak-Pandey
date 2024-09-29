@@ -73,6 +73,35 @@ const Project = () => {
                         </div>
                     </SwiperSlide>
 
+
+
+                    <SwiperSlide className='caja'>
+                        <img
+                            src={proyectImg(`./WeatherXpressimg.png`)}
+                            alt='WeatherXpress'
+
+                        />
+                        <div className="content">
+                            <h3>WeatherXpress</h3>
+                            <p>
+                                A Fast and Reliable Weather Forecasting App Powered by ExpressJS.
+                            </p>
+                            <p className="tecnologias">
+                                HTML
+                                <span> -</span> HTML
+                                <span> -</span> CSS
+                                <span> -</span> JavaScript
+                                <span> -</span> NodeJS
+                                <span> -</span> ExpressJS
+                                <span> -</span> Template Engine(HBS)
+                            </p>
+                            <a href="https://weatherxpress.onrender.com/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/deepak-pandey1/WeatherXpress" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                        </div>
+                    </SwiperSlide>
+
+
+
                     <SwiperSlide className='caja'>
                         <img
                             src={proyectImg(`./proyecto-app-18.png`)}

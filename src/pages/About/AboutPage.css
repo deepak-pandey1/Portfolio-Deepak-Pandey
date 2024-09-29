@@ -244,11 +244,11 @@ section .row .columns .skill img:hover {
 
 
 .sobre-mi-img {
-    width: 60%;
-    height: 60%;
+    width: 90%;
+    height: 90%;
     object-fit: cover;
     object-position: right;
-    border-radius: 50%;
+    border-radius: 5%;
     /* box-shadow: 10px 10px 20px;
     shadow- */
     box-shadow: 8px 5px 20px rgb(255, 179, 203);

@@ -12,7 +12,7 @@ import cv from '../../cv/cv.pdf';
 import { FormattedMessage } from 'react-intl';
 
 /* Img */
-import imgabout from '../../img/home.jpg';
+import my from '../../img/my.jpg';
 
 const About = () => {
 
@@ -40,7 +40,7 @@ const About = () => {
         <section className="sobre-mi-seccion" id="sobre-mi">
           <div className="sobre-mi-container">
             <div className="sobre-mi-img-container" id = "circle">
-              <img src={imgabout} alt="Deepak Pandey" className="sobre-mi-img" />
+              <img src={my} alt="Deepak Pandey" className="sobre-mi-img" />
               
               <a href={cv} target="_blank" rel="noopener noreferrer" download="cv.pdf" className="btn-codigo cv buttonDownload">
                   <FormattedMessage
