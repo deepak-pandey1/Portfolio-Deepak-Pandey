@@ -1,3 +1,6 @@
+![Uploading Screenshot 2024-10-13 193717.png…]()
+
+
 <h1>Portfolio Project</h1>
 
 <p>This is a portfolio website built using <strong>React</strong>, <strong>Yarn</strong>, and various <strong>npm packages</strong>. It showcases my personal information, details about my projects, and includes live demo links and GitHub repositories for each project.</p>
