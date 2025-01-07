@@ -127,6 +127,30 @@ const Project = () => {
                         </div>
                     </SwiperSlide>
 
+
+                    <SwiperSlide className='caja'>
+                        <img
+                            src={proyectImg(`./express.png`)}
+                            alt='Expressing'
+
+                        />
+                        <div className="content">
+                            <h3>Expressing</h3>
+                            <p>
+                            "Expressing" is a Heartfelt Platform Designed to Help People Share and Express their Feelings of Love.
+                            </p>
+                            <p className="tecnologias">
+                                HTML
+                                <span> -</span> CSS
+                                <span> -</span> JavaScript
+                                <span> -</span> ReactJS
+                                <span> -</span> React Router
+                            </p>
+                            <a href="https://expressing.onrender.com/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/deepak-pandey1/Expressing" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                        </div>
+                    </SwiperSlide>
+
                     <SwiperSlide className='caja'>
                         <img
                             src={proyectImg(`./proyecto-app-17.png`)}

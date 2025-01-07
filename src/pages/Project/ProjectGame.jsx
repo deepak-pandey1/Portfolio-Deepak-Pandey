@@ -106,7 +106,7 @@ const ProjectGame = () => {
                                 Allowing Two Players to Compete in Real-time, with Automatic Detection of Game Outcomes (win, lose, draw).
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://deepak-pandey1.github.io/Tic-Tac-Toe/" target="_blank">https://ticTacToe.co</a>
+                                <span>Link:</span> <a href="https://deepak-pandey1.github.io/Tic-Tac-Toe/" target="_blank">https://ticTacToe.com</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -144,7 +144,7 @@ const ProjectGame = () => {
                             </p>
 
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://deepak-pandey1.github.io/WoodColor-Creations/" target="_blank">https://https://WoodColorGame.co</a>
+                                <span>Link:</span> <a href="https://deepak-pandey1.github.io/WoodColor-Creations/" target="_blank">https://WoodColorGame.com</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>

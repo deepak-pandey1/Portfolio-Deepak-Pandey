@@ -242,7 +242,7 @@ function ProjectApp() {
                                 
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://deepak-pandey1.github.io/Password-Generator/" target="_blank">https://passwordGenerator.app/</a>
+                                <span>Link:</span> <a href="https://deepak-pandey1.github.io/Password-Generator/" target="_blank">https://passwordGenerator.com</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>

@@ -122,12 +122,14 @@ const Project = () => {
             </a>
           </div>
 
-          {/* <div className="projects__item">
+          <div className="projects__item">
             <a onClick={() => cambiarEstadoModal10(!estadoModal10)}>
-              <img src={proyectsImg(`./proyecto-10.jpg`)} alt="" className="projects__img" />
+              <img src={proyectsImg(`./express.png`)} alt="" className="projects__img" />
             </a>
           </div>
-          <div className="projects__item">
+
+
+          {/* <div className="projects__item">
             <a onClick={() => cambiarEstadoModal9(!estadoModal9)}>
               <img src={proyectsImg(`./proyecto-9.jpg`)} alt="" className="projects__img" />
             </a>
@@ -157,6 +159,8 @@ const Project = () => {
               <img src={proyectsImg(`./proyecto-3.jpg`)} alt="" className="projects__img" />
             </a>
           </div> */}
+
+
         </section>
       </main>
 
@@ -183,7 +187,7 @@ const Project = () => {
                 
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://deepak-pandey1.github.io/Movies-Streaming/" target="_blank">https://movies-streaming.com</a>
+                <span>Link:</span> <a href="https://deepak-pandey1.github.io/Movies-Streaming/" target="_blank">https://moviesstreaming.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -504,28 +508,24 @@ const Project = () => {
         </div>
       </Modal>
 
-      {/* <Modal
+
+       {/* //------------------------------------------------------->Expressing */}
+      <Modal
         estado={estadoModal10}
         cambiarEstado={cambiarEstadoModal10}
       >
         <div className="content-modal">
           <div className="pw-content">
-            <div className="eins-modal-preview"><img src={proyectsImg(`./proyecto-10-com.png`)} alt="" /></div>
+            <div className="eins-modal-preview"><img src={proyectsImg(`./expressBack.jpg`)} alt="" /></div>
             <div className="eins-modal-text">
               <p>
-                <FormattedMessage
-                  id='projects-info-10-p1'
-                  defaultMessage='Elegant Hand, page created for the sale of digital and analog watches.'
-                />
+                Expressing
               </p>
               <p>
-                <FormattedMessage
-                  id='projects-info-10-p2'
-                  defaultMessage='Developed so that the customer can choose the watch of their choice, since it has a wide variety of brands and models. The page also has a night mode for more comfort.'
-                />
+              Expressing is a web application that allows users to share and express their feelings of love and purpose. The platform provides a simple and engaging interface for individuals to connect and communicate their emotions.
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/ElegantHand/" target="_blank">https://elegant-hand.com</a>
+                <span>Link:</span> <a href="https://expressing.onrender.com" target="_blank">https://expressing.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -538,12 +538,14 @@ const Project = () => {
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
+                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="" />
+                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="" />
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </Modal> */}
+      </Modal>
 
       {/* <Modal
         estado={estadoModal9}
